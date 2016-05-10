@@ -1,4 +1,6 @@
-Trying to change everything - I have added this WHOLE NEW LINE!!!
+
+I have added this new line.
+>>>>>>> 5924f5c77e24f060534ff3c96b22dd09a7f2bc91
 
 - finish experiments
 - write thesis
